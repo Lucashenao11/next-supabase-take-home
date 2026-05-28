@@ -64,6 +64,3 @@ grant update on table "public"."notes" to "service_role";
   for select
   to public
 using (true);
-
-
-
